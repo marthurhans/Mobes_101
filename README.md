@@ -26,3 +26,5 @@ If you need additional support, please navigate to the course page and reach out
 ## FUTURE USE
 Take this opportunity to create or add to a simple resume portfolio to highlight and showcase your work for future use in career search, experience, and education!
 
+## PROJECT TASKS
+Each task will be listed here and will correspond with a git commit that will be pushed to the student repository for this project
